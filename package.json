@@ -37,6 +37,7 @@
     "lodash-compat": "^3.5.0",
     "q": "^1.4.1",
     "superagent": "^2.2"
+    "superagent-proxy": "1.0.0"
   },
   "devDependencies": {
     "async": "^0.9.0",
